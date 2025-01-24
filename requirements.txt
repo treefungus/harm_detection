@@ -1,3 +1,2 @@
 joblib
-sklearn.linear_model.LogisticRegression
-sklearn.feature_extraction.text.CountVectorizer
+sklearn
